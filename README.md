@@ -22,7 +22,7 @@ Copy code
 ### 1. Clone the Repository
 To clone the repository to your local machine, use the following command:
 ```bash
-git clone https://github.com/your-username/timer-app.git
+git clone https://github.com/PoojaR-17/Timer-Applications
 2. Open the Project
 Navigate to the project folder and open the index.html file in your browser.
 
